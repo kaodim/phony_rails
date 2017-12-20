@@ -10,6 +10,7 @@ gem 'guard-bundler' # ,  '~> 2.0.0'
 gem 'guard-rspec' # ,    '~> 4.2.0'
 gem 'rake'
 gem 'rspec' # ,          '~> 2.14.0'
+gem 'rspec_junit_formatter'
 gem 'rubocop'
 
 # For testing
